@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PGChat
 
-## Getting Started
+![PGChat Logo](public/logo.png)
 
-First, run the development server:
+**PGChat** is a secure chat platform that uses **PGP end-to-end encryption**. With PGChat, you can communicate privately without anyone else being able to read your messages.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **End-to-End PGP Encryption** for maximum privacy  
+- **User-Friendly Interface**  
+- **Cross-Platform**: Available on Web, iOS, and Android  
+- **Group & One-on-One Chats**  
+- **Secure File Sharing**  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Installation
 
-To learn more about Next.js, take a look at the following resources:
+### Web
+Simply open [PGChat Web](https://github.com/m0skwa/PGChat) in your browser and start chatting.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Mobile Apps
+<a href="https://github.com/m0skwa/PGChat">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" alt="Download on the App Store" height="60">
+</a>
+<a href="https://github.com/m0skwa/PGChat">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Get it on Google Play" height="60">
+</a>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## How to Use
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Sign up with your email or phone number  
+2. Generate or import your PGP key  
+3. Start secure chatting!  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Updates & Support
+
+- **Updates & News**: [PGChat Updates Channel](https://github.com/m0skwa/PGChat)  
+- **Support & Contact**: [PGChat Support](https://github.com/m0skwa/PGChat)  
+
+---
+
+## Security
+
+PGChat uses modern cryptography following **PGP standards**, ensuring that your messages are **never stored unencrypted** on our servers.  
+
+---
+
+## Contributing
+
+Contributions, suggestions, and bug reports are welcome!  
+Just create an **issue** on GitHub or contact us via the support channel.  
+
+---
+
+## Links
+
+- **Website**: [https://www.pgchat.example.com](https://github.com/m0skwa/PGChat)  
+- **iOS App**: [App Store](https://github.com/m0skwa/PGChat)  
+- **Android App**: [Play Store](https://github.com/m0skwa/PGChat)  
