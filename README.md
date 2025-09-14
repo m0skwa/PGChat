@@ -1,5 +1,3 @@
-# PGChat
-
 ![PGChat Logo](public/logo.png)
 
 **PGChat** is a secure chat platform that uses **PGP end-to-end encryption**. With PGChat, you can communicate privately without anyone else being able to read your messages.  
